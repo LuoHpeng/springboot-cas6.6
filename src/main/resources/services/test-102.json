@@ -1,0 +1,9 @@
+{
+  "@class" : "org.apereo.cas.services.CasRegisteredService",
+  "serviceId" : "^(https|imaps|http)://.*",
+  "name" : "test",
+  "theme" : "test",
+  "id" : 102,
+  "description" : "test-cas",
+  "evaluationOrder" : 1
+}
